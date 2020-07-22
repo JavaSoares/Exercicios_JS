@@ -3,7 +3,7 @@
 # Indice
 
 - [Sobre](#-sobre)
-- [Exercícios e Desafios](#-exercicios-e-desafios)
+- [Exercícios e Desafios](#-exercícios-e-desafios)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ---
