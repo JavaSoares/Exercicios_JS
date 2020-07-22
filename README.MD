@@ -3,7 +3,7 @@
 # Indice
 
 - [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Exercícios e Desafios](#-exercicios-e-desafios)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ---
